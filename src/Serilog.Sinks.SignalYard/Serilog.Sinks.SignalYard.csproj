@@ -18,8 +18,8 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryType>git</RepositoryType>
-    <PackageProjectUrl>https://github.com/simonholman/Serilog.Sinks.SignalYard</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/simonholman/Serilog.Sinks.SignalYard</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/sholman/Serilog.Sinks.SignalYard</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/sholman/Serilog.Sinks.SignalYard</RepositoryUrl>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
